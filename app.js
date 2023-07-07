@@ -1,7 +1,7 @@
 // Importing required modules
 const express = require("express");
 const bodyParser = require("body-parser");
-const date = require(__dirname+"/date.js")
+const date = require(__dirname + "/date.js");
 
 // Creating an instance of the Express application
 const app = express();
